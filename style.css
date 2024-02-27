@@ -361,6 +361,7 @@ img{
     background-color: var(--md-dark-color);
 }
 
+
 .favourite-grid{
     display: flex;
     flex-direction: row;
@@ -374,7 +375,7 @@ img{
 }
 .fav-item {
     box-shadow: 1px 2px #a1a1a1;
-    margin: 0px 5px 25px 5px;
+    margin: 100px 5px 25px 5px;
     width: 28%;
     padding: 10px;
     background-color: white;
